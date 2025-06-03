@@ -1,5 +1,5 @@
 import { useSelector } from "react-redux";
-import { sliceUrl } from "../../tools/sliceURL";
+import {sliceUrl} from "../../tools/sliceUrl";
 import { useEffect, useState } from "react";
 import SkeletonMovie from "../Skeletons/SkeletonMovie";
 
